@@ -1,0 +1,17 @@
+Section-2
+Image-1:https://b.zatcdn.com/webFrontend/64dffaa58ffa55a377cdf42b6a690e721585809275.png?fit-around 402:360&crop=402:360;*,*
+Image-2:https://b.zmtcdn.com/webFrontend/95f005332f5b9e71b9406828b63335331585809309.png?fit-around 402:3608crop-402:360;*, 
+Image-3:https://b.zmtcdn.com/webFrontend/b256d0dd8a29f9e0623ecaaea910534d1585809352.png?fit-around 402:360&crop=402:360;*,*
+Image-4:https://b.zatcdn.com/webFrontend/8ff4212b71b948ed5b6d2ce0d2bc99981594031410.png?fit-around 402:360&crop-402:360;*,*
+
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb0%2FHamburger_%252812164386105%2529.jpg&tbnid=yLp5aMbrUJImqM&vet=12ahUKEwiUrNHE2ruDAxWdSWwGHZNXA3cQMygjegUIARC8AQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFast_food&docid=X_RCFgQjayVz5M&w=5472&h=3648&q=food%20images&ved=2ahUKEwiUrNHE2ruDAxWdSWwGHZNXA3cQMygjegUIARC8AQ
+
+
+Image-5:https://b.zatcdn.com/data/pro/5722d9e687511d79616bcab92470734e1596187147.png
+Image-6:https://b.zetcdn.com/data/webuikit/9f0c85a5e33adb783fa@aef667075f9e1556003622.png
+image-7: https://b.zmtcdn.com/data/webuikit/23e930757c3df49840c482a8638bf5c31556001144.png
+
+appstore-logo: https://b.zmtcdn.com/data/webuikit/9f0c85a5e33adb783fa0aef667075f9e1556003622.png
+goole-playstore-logo: https://b.zmtcdn.com/data/webuikit/23e930757c3df49840c482a8638bf5c31556001144.png
+
